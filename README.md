@@ -22,7 +22,7 @@ Deploy the model using Streamlit for real-time prediction
 📁 Repository Structure
 Flipkart-Sentiment-Analysis/
 │
-├── flipkart_reviews.csv
+├── data.csv
 ├── model_training_and_selection.ipynb
 ├── final_sentiment_model.pkl
 ├── app.py
