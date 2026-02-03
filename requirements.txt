@@ -3,12 +3,13 @@ streamlit
 numpy
 scikit-learn
 nltk
-imbalanced-learn==0.13.0
+imbalanced-learn==0.14.1
 mlflow
 optuna
 joblib
 pandas
 numpy
+
 
 
 
