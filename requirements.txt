@@ -1,7 +1,12 @@
 scikit-learn==1.4.0
 streamlit
-joblib
-nltk
+numpy
 scikit-learn
+nltk
+imbalanced-learn
+mlflow
+optuna
+joblib
 pandas
 numpy
+
